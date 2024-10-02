@@ -1,15 +1,15 @@
-package com.davidmedina.webflux;
+package com.davidmedina.batch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
-@EnableScheduling
 @SpringBootApplication
-public class WebFluxApplication {
+@EnableScheduling
+public class BatchApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebFluxApplication.class, args);
+		SpringApplication.run(BatchApplication.class, args);
 	}
 
 }
