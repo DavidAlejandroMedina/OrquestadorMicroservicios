@@ -1,0 +1,15 @@
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\model\JsonApiBodyResponseSuccess.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\model\JsonApiBodyResponseErrors.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\api\NotFoundException.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\model\ErrorDetail.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\SwaggerSpringBootApplication.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\api\GetStepApiController.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\model\JsonApiBodyRequest.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\model\GetEnigmaRequest.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\config\SwaggerDocumentationConfig.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\api\ApiOriginFilter.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\api\ApiResponseMessage.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\api\GetStepApi.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\model\Header.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\api\ApiException.java
+C:\Users\david\GitHub\OrquestadorMicroservicios\ResolveEnigmaApiUno\src\main\java\co\com\david_medina\microservice\resolveEnigmaApi\model\GetEnigmaStepResponse.java

@@ -1,0 +1,15 @@
+co\com\david_medina\microservice\resolveEnigmaApi\model\GetEnigmaStepResponse.class
+co\com\david_medina\microservice\resolveEnigmaApi\model\JsonApiBodyResponseErrors.class
+co\com\david_medina\microservice\resolveEnigmaApi\config\SwaggerDocumentationConfig.class
+co\com\david_medina\microservice\resolveEnigmaApi\model\GetEnigmaRequest.class
+co\com\david_medina\microservice\resolveEnigmaApi\api\GetStepApiController.class
+co\com\david_medina\microservice\resolveEnigmaApi\model\ErrorDetail.class
+co\com\david_medina\microservice\resolveEnigmaApi\model\JsonApiBodyRequest.class
+co\com\david_medina\microservice\resolveEnigmaApi\api\ApiResponseMessage.class
+co\com\david_medina\microservice\resolveEnigmaApi\api\ApiException.class
+co\com\david_medina\microservice\resolveEnigmaApi\api\NotFoundException.class
+co\com\david_medina\microservice\resolveEnigmaApi\model\JsonApiBodyResponseSuccess.class
+co\com\david_medina\microservice\resolveEnigmaApi\SwaggerSpringBootApplication.class
+co\com\david_medina\microservice\resolveEnigmaApi\api\ApiOriginFilter.class
+co\com\david_medina\microservice\resolveEnigmaApi\model\Header.class
+co\com\david_medina\microservice\resolveEnigmaApi\api\GetStepApi.class

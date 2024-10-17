@@ -16,9 +16,9 @@ public class BatchService {
         this.webClient = webClientbuilder.build();
     }
 
-    @Scheduled(fixedRate = 120000)  // Cada 2 minutos
+    @Scheduled(fixedRate = 60000)  // Cada 1 minutos
     public void callOrchestrator() {
-        String orchestratorUrl = "http://localhost:9000/call-microservice";
+        String orchestratorUrl = "http://webflux:9000/call-microservice";
         String enigmaRequest = "{\n" +
                 "    \"data\": [\n" +
                 "        {\n" +

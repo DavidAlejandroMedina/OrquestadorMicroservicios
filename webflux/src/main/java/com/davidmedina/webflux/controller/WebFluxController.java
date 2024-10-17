@@ -38,14 +38,14 @@ public class WebFluxController {
     @PostMapping("/call-microservice")
     public Flux<String> callMicroservicePosts(@RequestBody JsonApiBodyRequest requestBody) {
 
-        String webhookUrl = "http://localhost:8083/webhook";
+        String webhookUrl = "http://webhook:8083/webhook";
         webhookService.callWebhook(webhookUrl, requestBody)
                 .subscribe(response -> LOG.info("\n\nWebhook call completed with response: \n" + response),
                 error -> LOG.error("Error occurred during webhook call: ", error));
 
-        String microserviceUrl1 = "http://localhost:8080/getStep";
-        String microserviceUrl2 = "http://localhost:8081/getStep";
-        String microserviceUrl3 = "http://localhost:8082/getStep";
+        String microserviceUrl1 = "http://resolve-enigma-api-uno:8080/getStep";
+        String microserviceUrl2 = "http://resolve-enigma-api-dos:8081/getStep";
+        String microserviceUrl3 = "http://resolve-enigma-api-tres:8082/getStep";
 
         Mono<String> response1 = stepOneService.callStepOne(microserviceUrl1, requestBody, "1");
         Mono<String> response2 = stepTwoService.callStepTwo(microserviceUrl2, requestBody, "2");
